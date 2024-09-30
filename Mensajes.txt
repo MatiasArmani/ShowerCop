@@ -1,0 +1,4 @@
+Ducha Iniciada
+Levas X minutos, te quedan X minutos
+Ducha Finalizada, objetivo cumplido
+Ducha Finalizada, No has cumplido con el objetivo. Estuviste X minutos de más, derrochando X litros aproximadamente. (Luego mensaje de que se podria haber hecho con esa agua)

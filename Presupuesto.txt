@@ -1,0 +1,10 @@
+AtMega 328p: $500
+Componentes: $300
+LED RGBx5: $200
+Buzzer Pasivo: $150
+SD Adapter: $150
+Impresiones: $1000
+Placa: $200
+Capacitivo: $75
+
+Total: $2575
